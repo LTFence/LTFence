@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hellbo, Everynyan!
+## I'm doing silly things here, such as Art Direction for the game!
+## Feel Free to roam around!
 <!--
 **LTFence/LTFence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
